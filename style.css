@@ -1,0 +1,45 @@
+.TopBar{
+
+height: 200px;
+width: 1920px;
+border: solid black 2px;
+
+}
+
+.body {
+
+background-color: #e6e6d9;
+
+}
+
+.LogoBar {
+
+border: solid black 2px;
+height: 130px;
+width: 600px;
+position: relative;
+left: 35px;
+top: 35px;
+
+}
+
+.LinkBar {
+
+border: solid black 2px;
+height: 130px;
+width: 800px;
+position: relative;
+bottom: 95px;
+left: 1025px;
+
+}
+
+.ImageABorder {
+
+width: 1400px;
+height: 532px;
+border: solid black 2px;
+position: relative;
+top: 50px;
+
+}
