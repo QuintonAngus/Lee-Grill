@@ -1,0 +1,107 @@
+.TopDiv {
+
+width: 1920px;
+height: 40px;
+background-color: rgb(101, 169, 224);
+
+}
+
+.body {
+
+margin: 0px;
+
+}
+
+.IndexDiv {
+
+width: 1920px;
+height: 80px;
+background-color: rgb(54, 54, 54);
+
+}
+
+.ServicesDiv {
+
+border: black solid 2px;
+height: 700px;
+width: 1800px;
+position: relative;
+left: 60px;
+top: 60px;
+display: flex;
+
+}
+
+.InnerDiv {
+
+height: 700px;
+width: 425px;
+border: solid 2px black;
+background-image: url(Placeholder.webp);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+}
+
+.InnerMargin {
+
+border: black 2px solid;
+height: 700px;
+width: 25px;
+
+}
+
+.InnerText {
+
+height: 500px;
+width: 375px;
+position: relative;
+left: 25px;
+top: 25px;
+border: black 2px solid;
+
+}
+
+.InnerButton {
+
+height: 100px;
+width: 375px;
+border: black solid 2px;
+position: relative;
+top: 50px;
+left: 25px;
+
+}
+
+.CopyrightDiv {
+
+height: 40px;
+width: 1920px;
+border-top: solid black 2px;
+position: relative;
+top: 125px;
+
+}
+
+.NameDiv {
+
+height: 60px;
+width: 500px;
+position: relative;
+top: 10px;
+left: 20px;
+text-align: left;
+display: flex;
+align-items: center;
+
+}
+
+.NameText {
+
+color: rgb(101, 169, 224);
+font-family: segoe UI;
+font-size: 40;
+font-weight: 600;
+
+}
+
