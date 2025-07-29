@@ -1,101 +1,22 @@
-   m─·
+<!--Basic Font types -->
 
-.body {
+.PrimaryFont {
 
-margin: 0px;~
-}
-
-.IndexDiv {
-
-width: 1920px;
-height: 120px;
-box-shadow: 0px 2px 4px rgba(0, 0, 1, 0.2);
+font-family: Roboto;
+font-size: 50px;
+font-weight: 800;
+color: red;
 
 }
 
-.ServicesDiv {
+.div {
 
-border: black solid 2px;
-height: 700px;
-width: 1800px;
-position: relative;
-left: 60px;
-top: 60px;
-display: flex;
+background-color: red;
 
 }
 
-.InnerDiv {
+.p {
 
-height: 700px;
-width: 425px;
-border: solid 2px black;
-background-image: url(Placeholder.webp);
-background-size: cover;
-background-repeat: no-repeat;
-background-position: center;
-}
-
-.InnerMargin {
-
-border: black 2px solid;
-height: 700px;
-width: 25px;
+color: red;
 
 }
-
-.InnerText {
-
-height: 500px;
-width: 375px;
-position: relative;
-left: 25px;
-top: 25px;
-border: black 2px solid;
-
-}
-
-.InnerButton {
-
-height: 100px;
-width: 375px;
-border: black solid 2px;
-position: relative;
-top: 50px;
-left: 25px;
-
-}
-
-.CopyrightDiv {
-
-height: 40px;
-width: 1920px;
-border-top: solid black 2px;
-position: relative;
-top: 125px;
-
-}
-
-.NameDiv {
-
-height: 60px;
-width: 500px;
-position: relative;
-top: 10px;
-left: 20px;
-text-align: left;
-display: flex;
-align-items: center;
-justifiy-contents: center;
-
-}
-
-.NameText {
-
-color: rgb(0,0,0);
-font-family: segoe UI;
-font-size: 120;
-font-weight: 600;
-
-}
-
