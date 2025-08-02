@@ -47,3 +47,52 @@ cursor:pointer ;
 
 }
 
+.Menu01 {
+
+height: 200px;
+width: 1700px;
+outline: 2px black solid;
+position: relative;
+left: 110px;
+top: 110px;
+border-radius: 10px;
+
+
+}
+
+.MenuButton {
+
+height: 150px;
+width: 100px;
+border-radius: 5px;
+position: relative;
+left: 25px;
+top: 25px;
+font-family: Poppins;
+color: white;
+background-color: #4684d8;
+cursor: pointer;
+
+}
+
+.MenuLinkText {
+
+font-family: Poppins;
+color: white;
+
+}
+
+.MenuText {
+
+height: 150px;
+width: 1000px;
+position: relative;
+left: 150px;
+bottom: 125px;
+font-family: Poppins;
+font-size: 30px
+
+}
+
+}
+
